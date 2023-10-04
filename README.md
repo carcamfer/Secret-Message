@@ -4,7 +4,6 @@
 
 This project is a simple web application that allows users to create a secret message, encrypt it, and share it with others via a link. The app uses the [Materialize CSS](https://materializecss.com/) library for a clean and simple design.
 
-![App Screenshot](/path-to-your-screenshot.png)
 
 ## Technology Used 
 
